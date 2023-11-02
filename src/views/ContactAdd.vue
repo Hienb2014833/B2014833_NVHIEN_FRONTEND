@@ -63,7 +63,6 @@ export default {
         },
     },
     created() {
-        this.getContact(this.id);
         this.message = "";
     },
 };
